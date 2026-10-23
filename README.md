@@ -28,7 +28,7 @@ My background spans Java-based backend systems, secure APIs, simulation software
 
 | Project | What it does | Technologies & methods |
 |---|---|---|
-| **UAV Crowd Movement & Density Analysis** | Analyses pedestrian movement, crowd flow and density changes in drone footage, with interactive visualisations. | YOLO11, ByteTrack, Python, OpenCV, Streamlit, tracking and evaluation metrics |
+| [UAV Crowd Movement & Density Analysis](https://github.com/aybikecan/uav-crowd-analysis) | Analyses pedestrian movement, crowd flow and density changes in drone footage, with interactive visualisations. | YOLO11, ByteTrack, Python, OpenCV, Streamlit, tracking and evaluation metrics |
 | [Edge AI Forest Fire Detection](https://github.com/aybikecan/edge-ai-forest-fire-detection)| Explores efficient deep-learning models for forest fire image classification and edge inference. | PyTorch, EfficientNet-B0, model benchmarking, inference latency |
 |[Employee Attrition Prediction](https://github.com/aybikecan/employee-attrition-prediction)| Predicts employee attrition from structured HR data and compares classification approaches. | Pandas, scikit-learn, Logistic Regression, Random Forest, Gradient Boosting, GridSearchCV |
 |[Spine X-ray Sex & BMI Prediction](https://github.com/aybikecan/spine-xray-sex-bmi-prediction) | Investigates deep-learning approaches to predictions from medical X-ray images. | PyTorch, CNNs, computer vision, model evaluation |
