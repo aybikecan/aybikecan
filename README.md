@@ -6,7 +6,7 @@ I'm a Computer Engineer based in **Bournemouth, UK**, with **2+ years of profess
 
 My background spans Java-based backend systems, secure APIs, simulation software and user interfaces. Alongside software engineering, I work on applied AI and computer vision projects, with an interest in building reliable, practical solutions from research to implementation.
 
-- 💻 Interested in **Software Engineering, Backend Development, Applied AI and Computer Vision**
+- 💻 Interested in **Software Engineering, Applied AI and Computer Vision**
 - 🧠 Working with **Java, Spring Boot, Python, PyTorch and OpenCV**
 - 📍 Bournemouth, United Kingdom
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sibelaybikecan/) · [GitHub](https://github.com/aybikecan)
