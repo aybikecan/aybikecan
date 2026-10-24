@@ -1,4 +1,4 @@
-# Hi, I'm Sibel Aybike Can 👋
+# Hi, I'm Sibel Aybike Can
 
 **Computer Engineer | Software Engineering & Applied AI | MSc Data Science and Artificial Intelligence**
 
@@ -6,16 +6,16 @@ I'm a Computer Engineer based in **Bournemouth, UK**, with **2+ years of profess
 
 My background spans Java-based backend systems, secure APIs, simulation software and user interfaces. Alongside software engineering, I work on applied AI and computer vision projects, with an interest in building reliable, practical solutions from research to implementation.
 
-- 💻 Interested in **Software Engineering, Applied AI and Computer Vision**
-- 🧠 Working with **Java, Spring Boot, Python, PyTorch and OpenCV**
-- 📍 Bournemouth, United Kingdom
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sibelaybikecan/) · [GitHub](https://github.com/aybikecan)
+- Interested in **Software Engineering, Applied AI and Computer Vision**
+- Working with **Java, Spring Boot, Python, PyTorch and OpenCV**
+- Bournemouth, United Kingdom
+- [LinkedIn](https://www.linkedin.com/in/sibelaybikecan/) · [GitHub](https://github.com/aybikecan)
 
 ## 💼 Career Opportunities
 
-- 🔭 **Open to Work:** Exploring opportunities in Software Engineering and Artificial Intelligence, particularly backend development and applied AI.
-- 🌍 **Open to Relocation:** Based in Bournemouth, UK, and open to opportunities across the UK and internationally.
-- 🤝 **Open to Collaboration:** Interested in building innovative software solutions and AI-powered applications.
+- **Open to Work:** Exploring opportunities in Software Engineering and Artificial Intelligence, particularly backend development and applied AI.
+- **Open to Relocation:** Based in Bournemouth, UK, and open to opportunities across the UK and internationally.
+- **Open to Collaboration:** Interested in building innovative software solutions and AI-powered applications.
 
 ## Professional experience
 
