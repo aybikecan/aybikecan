@@ -11,13 +11,6 @@ My experience combines machine learning, data analysis and computer vision with 
 - Bournemouth, United Kingdom
 - [LinkedIn](https://www.linkedin.com/in/sibelaybikecan/) · [GitHub](https://github.com/aybikecan)
 
-
-## 💼 Career Opportunities
-
-- **Open to Work:** Exploring opportunities in Software Engineering and Artificial Intelligence, particularly backend development and applied AI.
-- **Open to Relocation:** Based in Bournemouth, UK, and open to opportunities across the UK and internationally.
-- **Open to Collaboration:** Interested in building innovative software solutions and AI-powered applications.
-
 ## Professional experience
 
 | Role | Organisation | Period | Highlights |
